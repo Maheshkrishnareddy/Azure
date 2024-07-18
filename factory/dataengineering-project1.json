@@ -2,7 +2,7 @@
 	"name": "dataengineering-project1",
 	"properties": {
 		"globalConfigurations": {
-			"PolicyValidationEnabled": "true"
+			"PolicyValidationEnabled": "false"
 		}
 	},
 	"location": "eastus",
